@@ -37,14 +37,6 @@ It showcases my skills, projects, and experience in a clean, dynamic, and tech-i
 
 ---
 
-## 📸 **Preview**
-
-*(You can add a screenshot or GIF preview here)*
-
-> A glowing, futuristic portfolio highlighting creativity and clean development.
-
----
-
 ## 💼 **Projects Featured**
 
 * 🧩 **Fixify** — Smart platform connecting users with trusted service professionals.
