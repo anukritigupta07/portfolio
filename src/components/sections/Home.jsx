@@ -96,7 +96,7 @@ export const Home = () => {
 
             {/* LinkedIn */}
             <a
-              href="https://linkedin.com/in/anukritigupta03"
+              href="https://linkedin.com/in/anukritigupta03/"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-pointer p-4 bg-linear-to-br from-white/5 to-white/2 border border-blue-500/30 rounded-xl text-blue-400 hover:text-cyan-300 hover:border-cyan-500/50 hover:shadow-lg hover:shadow-cyan-500/30 transition-all duration-300 transform hover:scale-110 hover:-translate-y-1"
