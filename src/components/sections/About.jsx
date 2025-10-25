@@ -20,7 +20,7 @@ export const About = () => {
   ];
 
   const achievements = [
-    "Built 5+ full-stack projects with modern tech stack",
+    "Built full-stack projects with modern tech stack",
     "Strong understanding of data structures & algorithms",
     "Active contributor to open-source projects",
     "Participated in hackathons and coding competitions",

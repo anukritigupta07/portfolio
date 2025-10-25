@@ -6,18 +6,18 @@ export const Projects = () => {
     {
       title: "LedgerLite",
       description:
-        "Scalable cloud infrastructure management with real-time monitoring and automated scaling.",
+        "A lightweight MERN web app for effortless work, client, and payment management.",
       tech: ["React", "Node.js", "MongoDB", "Typescript"],
       liveLink: "#",
-      githubLink: "#",
+      githubLink: "https://github.com/anukritigupta07/LedgerLite.git",
     },
     {
       title: "Fixify",
       description:
-        "ML-powered data visualization platform with predictive analytics and interactive reports.",
+        "A smart service platform connecting users with skilled professionals for quick, reliable fixes.",
       tech: ["JavaScript", "ReactJs", "NodeJs", "ExpressJs", "MongoDB"],
       liveLink: "#",
-      githubLink: "#",
+      githubLink: "https://github.com/anukritigupta07/Fixify.git",
     },
   ];
 
