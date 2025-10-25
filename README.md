@@ -1,7 +1,3 @@
-Perfect 🔥 Here’s a **professional, modern, and aesthetic README** for your **portfolio project (`anukritigupta-portfolio`)** — written in the same style as your other project docs like Fixify and LedgerLite.
-
----
-
 # 🌐 **Anukriti Gupta — Portfolio**
 
 A sleek, modern, and fully responsive **developer portfolio website** built using **React + Tailwind CSS + Vite**.
