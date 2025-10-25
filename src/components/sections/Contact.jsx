@@ -183,7 +183,7 @@ export const Contact = () => {
                       name="name"
                       required
                       value={formData.name}
-                      placeholder="John Doe"
+                      placeholder="your name"
                       className="w-full bg-slate-900/50 border border-blue-500/30 rounded-xl px-4 py-3 text-white placeholder-blue-300/40 focus:outline-none focus:border-cyan-500 focus:ring-2 focus:ring-cyan-500/30 transition-all"
                       onChange={(e) =>
                         setFormData({ ...formData, name: e.target.value })
@@ -200,7 +200,7 @@ export const Contact = () => {
                       name="email"
                       required
                       value={formData.email}
-                      placeholder="john@example.com"
+                      placeholder="yourmail@example.com"
                       className="w-full bg-slate-900/50 border border-blue-500/30 rounded-xl px-4 py-3 text-white placeholder-blue-300/40 focus:outline-none focus:border-cyan-500 focus:ring-2 focus:ring-cyan-500/30 transition-all"
                       onChange={(e) =>
                         setFormData({ ...formData, email: e.target.value })
