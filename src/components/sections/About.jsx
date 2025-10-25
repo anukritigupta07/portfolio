@@ -165,7 +165,7 @@ export const About = () => {
               Want to know more about my experience?
             </p>
             <a
-              href="/Anukriti Gupta.pdf"
+              href="/Anukriti_Resume.pdf"
               download="Anukriti Gupta.pdf"
               target="_blank"
               rel="noopener noreferrer"
