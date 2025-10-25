@@ -21,7 +21,7 @@ export const Contact = () => {
       {
         name: "LinkedIn",
         icon: Linkedin,
-        href: "https://linkedin.com/in/anukritipta03",
+        href: "https://linkedin.com/in/anukritipta03/",
       },
       {
         name: "GitHub",
