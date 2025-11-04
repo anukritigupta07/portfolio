@@ -8,7 +8,7 @@ export const Projects = () => {
       description:
         "A lightweight MERN web app for effortless work, client, and payment management.",
       tech: ["React", "Node.js", "MongoDB", "Typescript"],
-      liveLink: "#",
+      liveLink: "https://ledgerlite-et-k88d.onrender.com",
       githubLink: "https://github.com/anukritigupta07/LedgerLite.git",
     },
     {
@@ -16,7 +16,7 @@ export const Projects = () => {
       description:
         "A smart service platform connecting users with skilled professionals for quick, reliable fixes.",
       tech: ["JavaScript", "ReactJs", "NodeJs", "ExpressJs", "MongoDB"],
-      liveLink: "#",
+      liveLink: "https://fixify-frontend.onrender.com/",
       githubLink: "https://github.com/anukritigupta07/Fixify.git",
     },
   ];
