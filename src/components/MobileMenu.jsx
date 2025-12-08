@@ -37,22 +37,21 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
       <a
         href="#about"
         onClick={() => setMenuOpen(false)}
-        className={`text-2xl font-semibold text-white my-4 transform transition-transform duration-300
-            ${
-              menuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
-            }        
-    `}
+        className="text-3xl text-blue-200 hover:text-cyan-400 transition-colors font-medium"
       >
         About
       </a>
       <a
+        href="#skills"
+        onClick={() => setMenuOpen(false)}
+        className="text-3xl text-blue-200 hover:text-cyan-400 transition-colors font-medium"
+      >
+        Skills
+      </a>
+      <a
         href="#projects"
         onClick={() => setMenuOpen(false)}
-        className={`text-2xl font-semibold text-white my-4 transform transition-transform duration-300
-            ${
-              menuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
-            }        
-    `}
+        className="text-3xl text-blue-200 hover:text-cyan-400 transition-colors font-medium"
       >
         Projects
       </a>

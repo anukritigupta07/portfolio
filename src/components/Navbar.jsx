@@ -88,6 +88,12 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
                 About
               </a>
               <a
+                href="#skills"
+                className="text-blue-200 hover:text-cyan-400 transition-colors font-medium"
+              >
+                Skills
+              </a>
+              <a
                 href="#projects"
                 className="text-blue-200 hover:text-cyan-400 transition-colors font-medium"
               >

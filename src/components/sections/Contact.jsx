@@ -15,7 +15,6 @@ import emailjs from "emailjs-com";
 export const Contact = () => {
   const contactInfo = {
     email: "guptaanukriti7@gmail.com",
-    phone: "+91 70803 10497",
     location: "India",
     socials: [
       {
@@ -115,19 +114,6 @@ export const Contact = () => {
                     >
                       {contactInfo.email}
                     </a>
-                  </div>
-                </div>
-              </div>
-
-              {/* Phone */}
-              <div className="backdrop-blur-xl bg-linear-to-br from-white/5 to-white/2 border border-blue-500/20 rounded-2xl p-6 hover:border-cyan-500/40 transition-all">
-                <div className="flex items-center gap-4">
-                  <div className="p-3 bg-linear-to-br from-blue-500/20 to-cyan-500/20 rounded-lg">
-                    <Phone size={24} className="text-cyan-400" />
-                  </div>
-                  <div>
-                    <h3 className="text-white font-semibold mb-1">Phone</h3>
-                    <p className="text-blue-300 text-sm">{contactInfo.phone}</p>
                   </div>
                 </div>
               </div>
