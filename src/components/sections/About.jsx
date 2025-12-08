@@ -165,8 +165,7 @@ export const About = () => {
               Want to know more about my experience?
             </p>
             <a
-              href="/Anukriti_Resume.pdf"
-              download="Anukriti Gupta.pdf"
+              href="/Anukriti_Gupta.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 bg-linear-to-r from-blue-600 to-cyan-600 text-white rounded-xl font-semibold hover:from-blue-500 hover:to-cyan-500 hover:shadow-lg hover:shadow-cyan-500/50 transition-all duration-300 transform hover:scale-105"
