@@ -48,7 +48,7 @@ It showcases my skills, projects, and experience in a clean, dynamic, and tech-i
 ## 📬 **Contact**
 
 If you’d like to connect, collaborate, or discuss an idea —
-📧 **[anukritigupta03@gmail.com](mailto:guptaanukriti7@gmail.com)**
+📧 **[guptaanukriti7@gmail.com](mailto:guptaanukriti7@gmail.com)**
 🔗 [LinkedIn](https://linkedin.com/in/anukritigupta03)
 🐙 [GitHub](https://github.com/anukritigupta07)
 
