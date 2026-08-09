@@ -33,15 +33,17 @@ It showcases my skills, projects, and experience in a clean, dynamic, and tech-i
 
 **Deployment:**
 
-* Vercel / GitHub Pages
+* Vercel
 
----
+
+* ---
 
 ## 💼 **Projects Featured**
 
-* 🧩 **Fixify** — Smart platform connecting users with trusted service professionals.
+* 🎯 HireSphereX — Remote interview platform designed to streamline technical interviews, candidate evaluation, and recruiter workflows.
 * 💻 **LedgerLite** — Lightweight full-stack app for managing work, payments, and clients.
-* ⚡ More coming soon...
+* * 🧩 **Fixify** — Smart platform connecting users with trusted service professionals.
+
 
 ---
 
