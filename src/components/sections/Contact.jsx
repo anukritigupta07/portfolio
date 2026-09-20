@@ -5,7 +5,7 @@ import {
   Linkedin,
   Github,
   Instagram,
-  Twitter,
+  
   Send,
   MapPin,
   Phone,
@@ -32,11 +32,7 @@ export const Contact = () => {
         icon: Instagram,
         href: "https://instagram.com/anukritigupta03",
       },
-      {
-        name: "Twitter",
-        icon: Twitter,
-        href: "https://twitter.com/Anukriti__Gupta",
-      },
+      
     ],
   };
 
