@@ -4,7 +4,7 @@
   <a href="https://anukriti-gupta-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/anukritigupta03">LinkedIn</a> •
   <a href="https://github.com/anukritigupta07">GitHub</a> •
-  <a href="mailto:guptaanukriti7@gmail.com">Email</a>
+  <a href="mailto:anukritig19@gmail.com">Email</a>
 </p>
 
 ## 👩‍💻 About Me
