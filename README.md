@@ -22,24 +22,6 @@ I work primarily with the **MERN stack** and am expanding my expertise in **DevO
 
 ## 🚀 Featured Projects
 
-### 🎯 HireSphereX — Remote Interview Platform
-
-A remote technical interview platform designed to simplify interviews, candidate evaluation, and recruiter workflows.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Socket.IO • AWS
-
-**Key Features**
-- Role-based authentication and user management
-- Remote interview workflow
-- Candidate evaluation and assessment
-- Real-time communication
-- RESTful backend APIs
-- Cloud deployment and infrastructure
-
-🔗 [GitHub Repository](https://github.com/anukritigupta07/HireSphereX)
-
----
-
 ### 💰 LedgerLite — Personal Finance Tracker
 
 A full-stack finance management application for tracking expenses, managing financial records, and generating useful reports.
