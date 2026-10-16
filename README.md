@@ -139,7 +139,7 @@ I enjoy working on applications involving:
 
 I'm always open to discussing **development opportunities, interesting projects, and collaborations**.
 
-📧 **Email:** [guptaanukriti7@gmail.com](mailto:guptaanukriti7@gmail.com)
+📧 **Email:** [anukritig19@gmail.com](mailto:anukritig19@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/anukritigupta03](https://www.linkedin.com/in/anukritigupta03)
 
